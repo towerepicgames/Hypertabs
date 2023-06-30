@@ -1,6 +1,5 @@
 {
- "type": "module",
-  "scripts": {
+ "scripts": {
     "start": "node src/index.js"
   },
   "files": ["static", "src", ".gitignore", "app.json", ".replit", "replit.nix", "Procfile"],
